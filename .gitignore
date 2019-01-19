@@ -1,0 +1,5 @@
+#Ignoring the following files
+*.psl
+*.gtf
+*.txt
+*.mplstyle
